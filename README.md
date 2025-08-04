@@ -275,8 +275,8 @@
             </div>
             
             <div class="photo-collage">
-                <img src="c:\Users\user.DESKTOP-L3R9JOH.001\Documents\foto ultah\foto 1.jpg" alt="Couple smiling at sunset on the beach, holding hands">
-                <img src="c:\Users\user.DESKTOP-L3R9JOH.001\Documents\foto ultah\foto 2.jpg" alt="Romantic dinner date with candlelight and wine">
+                <img src="foto ultah/foto 1.jpg" alt="Couple smiling at sunset on the beach, holding hands">
+                <img src="foto ultah/foto 2.jpg" alt="Romantic dinner date with candlelight and wine">
                 <img src="c:\Users\user.DESKTOP-L3R9JOH.001\Documents\foto ultah\foto 3.jpg" alt="Funny selfie with silly faces and hats">
                 <img src="c:\Users\user.DESKTOP-L3R9JOH.001\Documents\foto ultah\foto 4.jpg" alt="Adventurous hiking trip with beautiful mountain view">
                 <img src="c:\Users\user.DESKTOP-L3R9JOH.001\Documents\foto ultah\foto 5.jpg" alt="Cuddling on the couch watching movies">
